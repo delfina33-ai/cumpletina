@@ -1,0 +1,75 @@
+.title{ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    color:violet;
+}
+main img{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+main p{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    color:rgb(0, 0, 0);
+}
+
+.botones{
+    display: inline;
+    justify-content:center;
+    align-items: center;
+    flex-direction: row;
+   
+   
+}
+
+.lol{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0);
+}
+.lol h3{
+    color: rgb(255, 255, 255);
+}
+.lol p{
+    color: rgb(255, 200, 244);
+}
+.login{
+ box-decoration-break: none;
+}
+.tragos{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+   
+}
+.tragosimg{
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+}
+a {
+text-decoration: none;
+color: black;
+}
+.playy{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column; 
+}
+
+.lol h1{
+    color: white;
+}
